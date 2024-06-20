@@ -14,6 +14,6 @@
   <img alt="springboot" src="https://img.shields.io/badge/Spring%20Boot-65ab39?style=flat-square&logo=springboot&logoColor=white">
   <img alt="git" src="https://img.shields.io/badge/Git-d4492f?style=flat-square&logo=git&logoColor=white">
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" >
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" >
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-yellow?style=flat-square&logo=prettier&logoColor=white" >
   <img alt="sql" src="https://img.shields.io/badge/SQL-black?style=flat-square&logo=mysql&logoColor=white">
 </p>
