@@ -28,3 +28,5 @@
  <img src="https://slackmojis.com/emojis/8818-computer-fire/download" width="30"/>
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
+<hr>
+<p align="center"><i>Take Care!</i></p>
